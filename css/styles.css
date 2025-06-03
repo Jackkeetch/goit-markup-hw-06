@@ -1128,6 +1128,7 @@ input[type="checkbox"]:checked + .checkbox-label .checkbox-frame {
   }
   .terms-container {
     display: flex;
+    align-items: center;
     gap: 8px;
   }
 }
